@@ -43,7 +43,7 @@ This project simulates an **enterprise retail POS and stock-management system** 
 
 | Role | Member | Branch | Modules |
 |---|---|---|---|
-| 👑 Team Lead | [@lil-taha](https://github.com/lil-taha) | `feature/inventory-supplier` | Product & Inventory Registry, Supplier & Purchase Order |
+| 👑 Team Lead | **Taha** | `feature/inventory-supplier` | Product & Inventory Registry, Supplier & Purchase Order |
 | 🧑‍💻 Member 2 | **Ali** | `feature/billing-checkout` | Billing & Checkout Engine (discounts, tax, invoice) |
 | 🧑‍💻 Member 3 | **Usman** | `feature/payment-analytics` | Payment Gateway, Sales Analytics & Reporting |
 
